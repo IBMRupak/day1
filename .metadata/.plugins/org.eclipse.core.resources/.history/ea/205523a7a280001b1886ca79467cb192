@@ -1,0 +1,11 @@
+
+public class School {
+public static void main(String[] args) {
+	System.out.println("Hello");
+	Student student=new Student("Ram");
+	//student.setName("ram") //avoid
+	student.setAge((byte)10);
+	System.out.println("Name"+student.getName());
+	System.out.println(student.getAge());
+}
+}
