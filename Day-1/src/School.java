@@ -14,11 +14,7 @@ public static void main(String[] args) {
 		Teacher teacher=new Teacher("Shyam"+i);
 		i++;
 	}
-	int i=0;
-			do
-	{
-		Teacher teacher=new Teacher("Shyam"+i);
-	}while(i<9)
+	
 }
 
 	

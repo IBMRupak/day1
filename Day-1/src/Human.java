@@ -3,6 +3,7 @@ public class Human {
 private String name;
 private byte age;
 public String getName() {
+	
 	return name;
 }
 public void setName(String name) {
